@@ -1,7 +1,7 @@
 {
   "functions": {
-    "*.py": {
-      "runtime": "python3.10"
-    }
+    "create.py": { "runtime": "python3.10" },
+    "inbox.py": { "runtime": "python3.10" },
+    "message.py": { "runtime": "python3.10" }
   }
 }
